@@ -4,7 +4,7 @@ Meu nome é Luke, atualmente tenho 23 anos e sou estudante de Engenharia da Comp
 
 No meu tempo livre sou artista, editor, programador e estudo Analytics de redes sociais para Vtubers!
 
-** 'Você não faz só código, você faz arte e paradoxos com letras, números e símbolos' **
+**'Você não faz só código, você faz arte e paradoxos com letras, números e símbolos'**
 
 #
 
