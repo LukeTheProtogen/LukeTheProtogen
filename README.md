@@ -47,12 +47,9 @@ No meu tempo livre sou artista, editor, programador e estudo Analytics de redes 
 
 # Projetos Futuros
 
-##
+## HeartMonitor and Stream Crasher (Se meus batimentos passarem de 120bpm, o código irá encerrar a live)
 
-##Protogen Head Mk1
+## Protogen Head Mk1
 
 <img align="left" alt="ProtogenHead" width="80px" style="padding-right:40px;" src="https://i.etsystatic.com/47415888/r/il/299c81/5830052640/il_fullxfull.5830052640_qz8i.jpg"/>
 
-##
-
-HeartMonitor and Stream Crasher (Se meus batimentos passarem de 120bpm, o código irá encerrar a live)
