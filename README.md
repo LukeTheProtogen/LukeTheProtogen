@@ -24,7 +24,20 @@ No meu tempo livre sou artista, editor, programador e estudo Analytics de redes 
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- [![TypeScript](https://img.shields.io/badge/-Made_with_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+## Ferramentas 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
+## Sistemas operacionais que utilizo
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+
+## Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## Github Status!
@@ -34,8 +47,12 @@ No meu tempo livre sou artista, editor, programador e estudo Analytics de redes 
 
 # Projetos Futuros
 
-* Protogen Head Mk1
-<img align="left" alt="ProtogenHead" width="40px" style="padding-right:10px;" src="https://i.etsystatic.com/47415888/r/il/299c81/5830052640/il_fullxfull.5830052640_qz8i.jpg"/>
+##
 
+##Protogen Head Mk1
 
-* HeartMonitor and Stream Crasher (Se meus batimentos passarem de 120bpm, o código irá encerrar a live)
+<img align="left" alt="ProtogenHead" width="80px" style="padding-right:40px;" src="https://i.etsystatic.com/47415888/r/il/299c81/5830052640/il_fullxfull.5830052640_qz8i.jpg"/>
+
+##
+
+HeartMonitor and Stream Crasher (Se meus batimentos passarem de 120bpm, o código irá encerrar a live)
