@@ -45,6 +45,12 @@ No meu tempo livre sou artista, editor, programador e estudo Analytics de redes 
 ![LukeTheProtogen's Github Stats](https://github-readme-stats.vercel.app/api?username=LukeTheProtogen&show_icons=true&theme=great-gatsby)
 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LukeTheProtogen}/count.svg" /></p> 
+<br></div>
+
+
 # Projetos Futuros
 
 ## HeartMonitor and Stream Crasher (Se meus batimentos passarem de 120bpm, o código irá encerrar a live)
