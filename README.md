@@ -45,11 +45,6 @@ No meu tempo livre sou artista, editor, programador e estudo Analytics de redes 
 ![LukeTheProtogen's Github Stats](https://github-readme-stats.vercel.app/api?username=LukeTheProtogen&show_icons=true&theme=great-gatsby)
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LukeTheProtogen}/count.svg" /></p> 
-<br></div>
-
 
 # Projetos Futuros
 
@@ -57,5 +52,13 @@ No meu tempo livre sou artista, editor, programador e estudo Analytics de redes 
 
 ## Protogen Head Mk1
 
-<img align="left" alt="ProtogenHead" width="80px" style="padding-right:40px;" src="https://i.etsystatic.com/47415888/r/il/299c81/5830052640/il_fullxfull.5830052640_qz8i.jpg"/>
+<div aling="center">
+<p align="center"><img align="center" alt="ProtogenHead" width="180px" style="padding-right:40px;" src="https://i.etsystatic.com/47415888/r/il/299c81/5830052640/il_fullxfull.5830052640_qz8i.jpg"/></p>
+<br></div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LukeTheProtogen}/count.svg" /></p> 
+<br></div>
+
 
