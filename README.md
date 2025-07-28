@@ -43,6 +43,7 @@ No meu tempo livre sou artista, editor, programador e estudo Analytics de redes 
 ## Github Status!
 
 ![LukeTheProtogen's Github Stats](https://github-readme-stats.vercel.app/api?username=LukeTheProtogen&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
